@@ -13,8 +13,8 @@ There is a comp included to show you how it should look in general. We also want
 
 ##### Typefaces
 We use Montserrat for titles and Lato for copy. Both are Google Fonts.
-Montserrat: https://fonts.google.com/specimen/Montserrat
-Lato: https://fonts.google.com/specimen/Lato
+ - Montserrat: https://fonts.google.com/specimen/Montserrat
+ - Lato: https://fonts.google.com/specimen/Lato
 
 ##### Logos
 Copies of the logo are in the /img folder for the two sizes in the comp.
